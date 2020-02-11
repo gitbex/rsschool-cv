@@ -2,8 +2,8 @@
 
 **Email**: bexruz[at]gmail.com.  
 **Skype**: bikruz.  
-**GitHub**: [gitbex](https://github.com/gitbex)  
-**LinkedIn**: [bekhruz-mirrakhimov](https://www.linkedin.com/in/bekhruz-mirrakhimov/)
+**GitHub**: [gitbex](https://github.com/gitbex).  
+**LinkedIn**: [bekhruz-mirrakhimov](https://www.linkedin.com/in/bekhruz-mirrakhimov/).  
 
  >Interested in the field of IT, telecommunication and business. Keen to learn new skills to expand knowledge and experience. Tend to quality over quantity.
 
@@ -15,7 +15,7 @@
 - **Group Projects** involved Bicycles rental system *“Barclays Cycle Hire”* : Activities System design.
 - **Dissertation:** “Cloud Computing”
 
-**Tashkent University of Information Technologies** - **Uzbekistan**.
+**Tashkent University of Information Technologies** - **Uzbekistan**.  
 Bachelor’s degree Informatics and Information Technologies
 - **Course subjects:** *Informatics, Systematic Programming Support, and Fundamentals of Counting System Information, Human Machine Interface, Web Programming.*
 
