@@ -34,7 +34,7 @@ Bachelor’s degree Informatics and Information Technologies
 **Ucell.** **Tashkent**. **Uzbekistan**  
 2013-present.  
 Senior Billing Engineer.  
-_Troubleshooting_, _Provisioning_, _Integration_, _Payment_ _Gatway_, _Mediation_.
+_Troubleshooting_, _Provisioning_, _Integration_, _Payment_ _Gateway_, _Mediation_.
 
 
 
