@@ -20,9 +20,9 @@ Bachelor’s degree Informatics and Information Technologies
 - **Course subjects:** *Informatics, Systematic Programming Support, and Fundamentals of Counting System Information, Human Machine Interface, Web Programming.*
 
 ## Skills
-**Operation System:** Windows, Linux.
+**Operation System:** Windows, Linux.  
 **Applications:**   PLSQL, SOAP, WebLogic, Wireshark, Oracle.                                                                                
-**Programming Language:**  Bash, SQL, XML, HTML/CSS, JavaScript, and Java.  
+**Programming Language:**  Bash, SQL, XML, HTML/CSS, JavaScript, and Java.   
 **Application design:**   Use Cases, Class Diagrams using UML.  
 **Business Analyst:**  Data Gathering, Model building.  
 **Certificate:**  Linux Administration, Comverse Operation & Maintenance, Sales Technics.  
