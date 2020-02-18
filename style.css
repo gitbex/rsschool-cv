@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
 }
 hr{
     height:0px;
@@ -38,8 +37,5 @@ header {
 .education .uni ul {
    padding-left: 15px;
 }
-/* 
-.education .uni{
-    margin-top: 10px;
-} */
+
 
