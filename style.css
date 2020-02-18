@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+hr{
+    height:0px;
+    margin-bottom: 10px;
+}
+body{
+    max-width: 1024px;
+    border: 1px solid grey;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 25px;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+.full_name{
+    width: 50%;
+}
+ .img{
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+ }
+ .img img{
+     border-radius: 50%;
+ }
+
+.education .uni ul {
+   padding-left: 15px;
+}
+/* 
+.education .uni{
+    margin-top: 10px;
+} */
+
